@@ -19,6 +19,6 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "jest": "^22.4.0",
-    "regenerator-runtime": "^0.11.1"
+    "regenerator-runtime": "^0.13.10"
   }
 }
